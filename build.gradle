@@ -15,12 +15,7 @@ configurations {
 }
 
 repositories {
-	//setting nexus server to download dependencies
-
-	maven {
-		url "http://nexus.konasldev.com:8082/repository/maven-central/"
-		allowInsecureProtocol = true
-	}
+	mavenCentral()
 }
 
 dependencies {
