@@ -2,6 +2,8 @@
 
 This is project 01 of the course: "**Spring Boot, ORM(JPA, Hibernate)**"
 
+Course link: https://github.com/atique7465/spring-boot-orm-hibernate-jpa-course
+
 1. **clone This Repository**: _git clone repo url_
 2. **fetch branches**: _git fetch_
 3. **checkout develop branch**: _git checkout bim/develop_
